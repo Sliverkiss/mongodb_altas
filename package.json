@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "hono-mongodb-atlas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Loh",
+  "license": "MIT",
+  "description": "A simple Hono app with MongoDB Atlas integration",
+  "dependencies": {
+    "@hono/node-server": "^1.19.5",
+    "hono": "^4.9.10",
+    "mongodb": "^6.20.0"
+  }
+}
