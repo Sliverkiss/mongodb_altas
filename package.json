@@ -8,7 +8,7 @@
   },
   "author": "Loh",
   "license": "MIT",
-  "description": "A simple Hono app with MongoDB Atlas integration",
+  "description": "A simple Hono app with MongoDB Atlas integration — supports Vercel & Node.js",
   "dependencies": {
     "@hono/node-server": "^1.19.5",
     "hono": "^4.9.10",
